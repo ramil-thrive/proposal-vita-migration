@@ -46,8 +46,9 @@ In summary, Vite offers an advanced, efficient, and customizable React developme
 </details>
 
 - Thrive CRA:
+
   - <details>
-      <summary><a href="https://npmtrends.com/react-scripts-vs-vite"><code>pnpm start</code> (≈ 10/14s)</a></summary>
+      <summary><code>pnpm start</code> (≈ 10/14s)</summary>
       <br/>
       It takes approximately between <strong>10-14s</strong> to start the project at it's current state with couple of pages and components.
       <br/>
@@ -55,7 +56,7 @@ In summary, Vite offers an advanced, efficient, and customizable React developme
       <img width="1444" alt="Screenshot 2023-07-04 at 9 46 27 PM" src="https://github.com/ramil-thrive/proposal-vita-migration/assets/132285107/6ad3808b-fae5-44da-a045-ebac5f7bd45d">
     </details>
   - <details>
-      <summary><a href="https://npmtrends.com/react-scripts-vs-vite"><code>pnpm build</code> (≈ 18/22s)</a></summary>
+      <summary><code>pnpm build</code> (≈ 18/22s)</summary>
       <br/>
       It takes approximately between <strong>18-22s</strong> to build the project at it's current state with couple of pages and components.
       <br/>
@@ -65,7 +66,7 @@ In summary, Vite offers an advanced, efficient, and customizable React developme
 
 - Thrive Vite:
   - <details>
-      <summary><a href="https://npmtrends.com/react-scripts-vs-vite"><code>pnpm start</code> (≈ 800/500ms)</a></summary>
+      <summary><code>pnpm start</code> (≈ 800/500ms)</summary>
       <br/>
       It takes <strong>less than a second</strong> to start the project at it's current state with couple of pages and components. And after each start it gets even faster.
       <br/>
@@ -75,7 +76,7 @@ In summary, Vite offers an advanced, efficient, and customizable React developme
       Third try: <img width="1444" alt="Screenshot 2023-07-04 at 9 52 58 PM" src="https://github.com/ramil-thrive/proposal-vita-migration/assets/132285107/d11a7a65-c83a-4340-affe-afb0e6c4d3dc">
     </details>
   - <details>
-      <summary><a href="https://npmtrends.com/react-scripts-vs-vite"><code>pnpm build</code> (≈ 5-7s)</a></summary>
+      <summary><code>pnpm build</code> (≈ 5-7s)</summary>
       <br/>
       It takes approximately between <strong>5-7s</strong> to build the project at it's current state with couple of pages and components.
       <br/>
@@ -84,7 +85,7 @@ In summary, Vite offers an advanced, efficient, and customizable React developme
     </details>
 
 <details>
-  <summary><a href="https://npmtrends.com/react-scripts-vs-vite">Build size difference for Thrive CRA & Vite (10.2MB vs 1.8MB)</a></summary>
+  <summary>Build size difference for Thrive CRA & Vite (10.2MB vs 1.8MB)</summary>
   <br/>
   Build size reduced from 10.2MB to 1.8MB (≈ 82.35% lighter).
   <br/>
