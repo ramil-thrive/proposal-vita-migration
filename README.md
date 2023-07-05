@@ -16,15 +16,15 @@ After consideration of alternatives such as [Next.js](https://nextjs.org/) and [
 
 Vite, while not explicitly recommended in the official React documentation, presents several significant advantages:
 
-1. Performance Improvement: Built on [esbuild](https://esbuild.github.io/), Vite can bundle dependencies 10-100x faster than typical JavaScript-based bundlers, resulting in faster development times and enhanced developer productivity.
-2. Efficiency in Updates: Vite optimizes the process of updating code during development by leveraging Hot Module Replacement (HMR) over native ES Module (ESM), ensuring fast and consistent updates.
-3. Flexibility: Vite supports absolute imports, environment variables, and a wide range of plugins, enabling a more customizable and efficient development process.
+1. **Performance Improvement**: Built on [esbuild](https://esbuild.github.io/), Vite can bundle dependencies 10-100x faster than typical JavaScript-based bundlers, resulting in faster development times and enhanced developer productivity.
+2. **Efficiency in Updates**: Vite optimizes the process of updating code during development by leveraging Hot Module Replacement (HMR) over native ES Module (ESM), ensuring fast and consistent updates.
+3. **Flexibility**: Vite supports absolute imports, environment variables, and a wide range of plugins, enabling a more customizable and efficient development process.
 
 ## Expected Benefits
 
-1. Improved Development Times: As evident in our internal tests, Vite significantly improves the speed of both starting the project and building the project at its current state, outperforming CRA by a wide margin.
-2. Reduced Build Size: Our internal tests have also indicated a significant reduction in the build size when using Vite compared to CRA, making our application faster and more efficient.
-3. Enhanced Developer Productivity: By adopting Vite, we can boost the efficiency of our development feedback loop, ultimately leading to enhanced developer productivity and a superior development experience.
+1. **Improved Development Times**: As evident in our internal tests, Vite significantly improves the speed of both starting the project and building the project at its current state, outperforming CRA by a wide margin.
+2. **Reduced Build Size**: Our internal tests have also indicated a significant reduction in the build size when using Vite compared to CRA, making our application faster and more efficient.
+3. **Enhanced Developer Productivity**: By adopting Vite, we can boost the efficiency of our development feedback loop, ultimately leading to enhanced developer productivity and a superior development experience.
 
 ## Request for Approval
 
