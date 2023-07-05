@@ -104,3 +104,4 @@ In summary, Vite offers an advanced, efficient, and customizable React developme
 - [4 Reasons Why You Should Prefer Vite Over CRA](https://semaphoreci.com/blog/vite)
 - [Is Vite Really Faster Than Webpack?](https://betterprogramming.pub/is-vite-really-faster-than-webpack-b414f6cc751c)
 - [Storybook Performance: Vite vs Webpack](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/)
+- [How to make your JavaScript Bundle Smaller](https://youtu.be/kwUfeWe7DCw)
